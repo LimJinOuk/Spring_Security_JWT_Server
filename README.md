@@ -10,7 +10,7 @@
   <h2>📔로드맵</h2>
 <ul>
   <li>
-    <a href = "https://github.com/LimJinOuk/Spring_Securit">  Spring Security (기본Set) </a>
+    <a href = "https://github.com/LimJinOuk/Spring_Security">  Spring Security (기본Set) </a>
   </li>
   <li>
     <a href = "https://github.com/LimJinOuk/Spring_Security_JWT_Server">Spring Security JWT (JWT Server 구축) </a>
